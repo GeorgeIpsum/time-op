@@ -1,0 +1,19 @@
+{
+  "name": "time-op",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ibrahim Saberi",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "pkgroll": "^2.12.2",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
